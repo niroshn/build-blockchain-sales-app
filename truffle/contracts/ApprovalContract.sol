@@ -4,7 +4,7 @@ contract ApprovalContract {
 
   address public sender;
   address public receiver;
-  address constant public approver = 0x627306090abab3a6e1400e9345bc60c78a8bef57;
+  address constant public approver = 0x5aeda56215b167893e80b4fe645ba6d5bab767de;
 
   function constructor() public {
     // tbd
